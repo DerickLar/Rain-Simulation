@@ -1,9 +1,9 @@
 ## Particle Rain Simulation
 ![RainFall_Example](https://github.com/user-attachments/assets/212f2746-516c-409c-8802-316334f35e8d)<br />
-A dynamic particle system to simulate rain fall<br />
-The simulation allows for the particles to be affected by variables such as descent speed, wind strenght, wind direction<br /> 
+A dynamic particle system to simulate rainfall<br />
+The simulation allows for the particles to be affected by variables such as descent speed, wind strength, wind direction<br />
 
-## Demonstartion
+## Demonstration
 [Simulation Video](https://youtu.be/WJ-OoMPtBls)
 ## Simulation Controls
 All simulation controls are in this control panel:<br />
@@ -29,5 +29,5 @@ You may also use these keybinds:<br />
 You may exit the program at any time with **ESC**<br />
 
 ## Requirements to Run
-Have Visual Sudio 2019 or higher<br />
+Have Visual Studio 2019 or higher<br />
 Have [openFrameworks](https://openframeworks.cc/download/) to generate the project<br />
